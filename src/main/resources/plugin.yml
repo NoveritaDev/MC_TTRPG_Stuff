@@ -1,0 +1,36 @@
+name: MinecraftTTRPGTools
+version: 1.0
+author: Noverita
+main: me.noverita.plugin.MinecraftTTRPGTools
+api-version: 1.13
+commands:
+  rphelp:
+    description: Gives players access to in game help documents.
+    usage: /rphelp <topic>
+    permission: minecraftttrpgtools.rphelp
+    default: true
+  travel:
+    description: Placeholder
+    usage: Placeholder
+    permission: minecraftttrpgtools
+    default: true
+  viewpaths:
+    description: Placeholder
+    usage: Placeholder
+    permission: minecraftttrpgtools
+    default: true
+  addtravelnode:
+    description: Placeholder
+    usage: Placeholder
+    permission: minecraftttrpgtools
+    default: true
+  selecttravelnode:
+    description: Placeholder
+    usage: Placeholder
+    permission: minecraftttrpgtools
+    default: true
+  finishtravelpath:
+    description: Placeholder
+    usage: Placeholder
+    permission: minecraftttrpgtools
+    default: true
